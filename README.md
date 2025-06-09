@@ -1,4 +1,4 @@
-## 👋 Fala aí! Eu sou o Leonardo Nunes Pires
+## 👋 Hello Dev's! Eu sou o Leonardo Nunes Pires
 
 ---
 
