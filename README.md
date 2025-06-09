@@ -45,3 +45,6 @@ Meu objetivo é construir uma base técnica sólida para atuar na área e evolui
 </div>
 
 ---
+### 🐍 Snake eating my contributions
+
+![snake gif](https://github.com/leonardo-nunes-pires/leonardo-nunes-pires/blob/output/github-contribution-grid-snake.svg)
